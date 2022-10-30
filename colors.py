@@ -24,7 +24,7 @@ CELL_COLORS = {
 }
 
 CELL_NUMBER_COLORS = {
-    2: "#0a0000", # "695c57"
+    2: "#0a0000", # Changes from this "#695c57" to "#0a0000"
     4: "#695c57",
     8: "#ffffff",
     16: "#ffffff",
