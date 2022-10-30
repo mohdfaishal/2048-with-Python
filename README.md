@@ -6,4 +6,4 @@ Please download all the files in one folder and run 2048-Games.py only.
 
 ENJOY :)
 
-CREDIT TO KITECO
+REFERENCES TO KITECO
